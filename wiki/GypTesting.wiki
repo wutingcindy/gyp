@@ -1,2 +1,2 @@
 ﻿#labels Featured
-This page has moved to http://gyp.gsrc.io/docs/Testing.md .
+This page has moved to https://gyp.gsrc.io/docs/Testing.md .
