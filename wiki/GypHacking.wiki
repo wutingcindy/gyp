@@ -1,1 +1,1 @@
-This page has moved to https://chromium.googlesource.com/external/gyp/+/master/docs/Hacking.md
+This page has moved to http://gyp.gsrc.io/docs/Hacking.md
